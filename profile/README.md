@@ -1,4 +1,4 @@
-[![](assets/banner_1560x520.jpg)](https://l.ridemypark.com/app)
+[![RMP banner](/assets/banner_1560x520.jpg)](https://l.ridemypark.com/app)
 # RideMyPark
 ***Made by riders for riders.***
 
@@ -11,6 +11,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://l.ridemypark.com/facebook)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://l.ridemypark.com/youtube)
 
+
+<sub>The majority of our repositories are currently private for security reasons. Contact us if you want to be a part of the RMP project.</sub>
 <!--
 
 **Here are some ideas to get you started:**
