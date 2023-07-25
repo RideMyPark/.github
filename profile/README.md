@@ -2,10 +2,10 @@
 # RideMyPark
 ***Made by riders for riders.***
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://l.ridemypark.com/discord)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://l.ridemypark.com/discord)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://l.ridemypark.com/playstore)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://l.ridemypark.com/appstore)
 
-[![RideMyPark Website](https://img.shields.io/badge/Website-ffffff)](https://ridemypark.com/)
+[![RideMyPark Website](https://img.shields.io/badge/Website-ffffff)](https://l.ridemypark.com/website)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://l.ridemypark.com/discord)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://l.ridemypark.com/instagram)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://l.ridemypark.com/facebook)
